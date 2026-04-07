@@ -1,0 +1,2 @@
+# Prompts
+LLM Prompt Collection
